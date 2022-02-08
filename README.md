@@ -2,10 +2,6 @@ Michael Kmak
 
 Computer Engineering student @ UOP
 
-Enjoys low-level and hardware stuff
+Enjoys lower-level and hardware stuff
 
-Interested in learning anything interesting
-
-Just working on school, really.
-
-Enjoys video games
+Interested in learning
