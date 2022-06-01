@@ -1,7 +1,2 @@
-Michael Kmak
-
-Computer Engineering student @ UOP
-
-Enjoys lower-level and hardware stuff
-
-Interested in learning
+As of now, this is a collection of some work done for school at University of the Pacific.
+Bit subpar overall but hey, learning's a constant process.
